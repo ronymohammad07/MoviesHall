@@ -17,6 +17,7 @@
     box-shadow: 0px 0px 20px #fff, 0px 0px 30px #fff, 0px 0px 10px #fff, 0px 0px 1px; */
     /* background-color: white; */
     border-radius: 5px;
+    padding-bottom: 3px;
   }
   .a-span {
     color: #fff;
@@ -24,6 +25,6 @@
     font-size: 1.5em;
     animation: animate 2s linear;
     animation-iteration-count: 1;
-    padding: 3px 0px 0px 0px;
+    padding: 7px 0px 0px 0px;
     text-shadow: 0px 0px 20px #fff, 0px 0px 30px #fff, 0px 0px 10px #fff, 0px 0px 1px;
   }
